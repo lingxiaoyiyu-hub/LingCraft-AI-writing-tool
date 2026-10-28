@@ -154,14 +154,14 @@
 
 ## 立即下载
 
-**当前版本：v3.6.15（2026-10-27）**
+**当前版本：v3.6.16（2026-10-29）**
 
 - **官方下载页（魔搭，国内速度好）**：
   <https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/files>
 - **直接下载安装包**：
-  <https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/resolve/master/LingCraft_Setup_v3.6.15.exe>
+  <https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/resolve/master/LingCraft_Setup_v3.6.16.exe>
   （463.8 MB ｜ Windows 10/11 64 位 ｜ 安装版）
-  SHA-256：`9d75c24804d5b00b6f061e963c556782664c15e320a0a1c0d838d9504c4e5088`
+  SHA-256：`d2772cbc5f646984efbd9e81c2e37435732df2a33ffd6bfe569c437177fdadaf`
 - **GitHub 镜像 Release**：
   <https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
 
@@ -245,6 +245,7 @@ AI 写作工具、AI 写文章软件、今日头条写作工具、微头条批�
 
 ## 更新日志
 
+- **v3.6.16**（2026-10-29）：首次启动法律声明确认（同意一次后不再弹）、声明增补内容责任条款；界面用词统一为视频处理 / 爆款改写 / 画面修复；声明弹窗双栏加宽、确认按钮固定在底边。
 - **v3.6.15**（2026-10-27）：新增长故事创作（6000 字以上自动分段规划与合并）；AI 配图新增出图并发三档并自动降速；爆款选题池支持持久化与单条删除；修复头条正文注入、直发假成功、并发丢图、百家号配图上传与微头条采集配图等问题。
 - **v3.6.14**（2026-10-26）：修复 AI 视频按钮偶发无反应；二创结果改为每条完成即落盘；显卡编码探测失败会写明原因并自动回退 CPU；二创任务新增诊断日志。
 - **v3.6.13**（2026-10-24）：新增批量生成 AI 视频、去水印「自动识别」档、软件内公告栏、各列表跨分页全选；修复润色不出文章、配图与段落错位；批量发布弹窗与视频素材列表布局收敛。
