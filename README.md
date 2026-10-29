@@ -154,14 +154,14 @@
 
 ## 立即下载
 
-**当前版本：v3.6.16（2026-10-29）**
+**当前版本：v4.0.0（2026-10-29）**
 
 - **官方下载页（魔搭，国内速度好）**：
   <https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/files>
 - **直接下载安装包**：
-  <https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/resolve/master/LingCraft_Setup_v3.6.16.exe>
+  <https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/resolve/master/LingCraft_Setup_v4.0.0.exe>
   （463.8 MB ｜ Windows 10/11 64 位 ｜ 安装版）
-  SHA-256：`d2772cbc5f646984efbd9e81c2e37435732df2a33ffd6bfe569c437177fdadaf`
+  SHA-256：`da58da9a713d1c8d0b77fbe53516951b8282c9db76a67b3f5ca032b2448a117f`
 - **GitHub 镜像 Release**：
   <https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
 
@@ -245,6 +245,7 @@ AI 写作工具、AI 写文章软件、今日头条写作工具、微头条批�
 
 ## 更新日志
 
+- **v4.0.0**（2026-10-29）：平台专属模型 **LingCraft v4 Plus** 上线（免密钥开箱即用）；修复「一张图 · 纯图文成片」点生成必报错；AI 视频批量生成新增进度面板与独立停止按钮；Key 失效提示直说原因并给恢复路径；修复定时发布标题被写成文件名
 - **v3.6.16**（2026-10-29）：发布链路修复（头条上限空转、批量多账号错发、百家号/公众号批量记错、登录失效整队收手）、AI 视频「一张图 · 纯图文成片」、AI 报错统一提示、首次启动法律声明确认
 - **v3.6.15**（2026-10-27）：新增长故事创作（6000 字以上自动分段规划与合并）；AI 配图新增出图并发三档并自动降速；爆款选题池支持持久化与单条删除；修复头条正文注入、直发假成功、并发丢图、百家号配图上传与微头条采集配图等问题。
 - **v3.6.14**（2026-10-26）：修复 AI 视频按钮偶发无反应；二创结果改为每条完成即落盘；显卡编码探测失败会写明原因并自动回退 CPU；二创任务新增诊断日志。
