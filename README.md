@@ -310,7 +310,7 @@
 
 
 
-**当前版本：v5.0.2（2026-11-13）**
+**当前版本：v5.0.1（2026-11-13）**
 
 
 
@@ -320,11 +320,11 @@
 
 - **直接下载安装包**：
 
-  <https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/resolve/master/LingCraft_Setup_v5.0.2.exe>
+  <https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/resolve/master/LingCraft_Setup_v5.0.1.exe>
 
-  （462.9 MB ｜ Windows 10/11 64 位 ｜ 安装版）
+  （471.7 MB ｜ Windows 10/11 64 位 ｜ 安装版）
 
-  SHA-256：`c55bef8943fb2668f5d5ff7335517df9aa8d1baa8f393d14347f9fe008c274e5`
+  SHA-256：`39c206dbce70e84e1639360593c304bc361a5d246b393f43083334bad98bee30`
 
 - **GitHub 镜像 Release**：
 
